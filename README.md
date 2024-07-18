@@ -1,6 +1,6 @@
-# PythonAlgorithms
+# Algorithms
 
-Python Algorithms
+Algorithms
 
 ## Sıralama Algoritmaları:
 - Bubble Sort
